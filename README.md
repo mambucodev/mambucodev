@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Retlie](https://retelie.com/)<br>🌱 I’m currently learning [Rust](https://doc.rust-lang.org/book/)
+🔭 I’m currently working on [Retlie](https://retlie.com/)<br>🌱 I’m currently learning [Rust](https://doc.rust-lang.org/book/)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/604790617138266149?idleMessage=Busy%20coding%20in%20Rust%20probably...&showDisplayName=true)](https://discord.com/users/604790617138266149)
 
