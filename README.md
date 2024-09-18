@@ -3,7 +3,6 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/604790617138266149?idleMessage=Busy%20coding%20in%20Rust%20probably...&showDisplayName=true)](https://discord.com/users/604790617138266149)
 
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.sadyn.it/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mambuco.real) 
 
@@ -13,9 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=mambucodev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mambucodev&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mambucodev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mambucodev&icon=0&color=0)](https://visitcount.itsvg.in)
